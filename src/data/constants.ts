@@ -269,7 +269,7 @@ export const statistics = [
 
 /* ── EmailJS Config (placeholder) ─────────────── */
 export const emailjsConfig = {
-  serviceId: 'YOUR_SERVICE_ID',
-  templateId: 'YOUR_TEMPLATE_ID',
-  publicKey: 'YOUR_PUBLIC_KEY',
+  serviceId: 'service_6p2rhro',
+  templateId: 'template_pistdur',
+  publicKey: 'RXYMjk1kFS863GZN1',
 };
