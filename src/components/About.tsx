@@ -67,7 +67,7 @@ const About: React.FC = () => {
                 {/* Gold accent background */}
                 <div className="absolute inset-0 bg-gold rounded-2xl transform translate-x-3 translate-y-3 -z-10 opacity-50"></div>
                 <img 
-                  src="/images/profile.jpeg" 
+                  src="/images/profile.png" 
                   alt="Profile" 
                   className="w-full max-w-[350px] rounded-2xl shadow-lg object-cover"
                   loading="lazy"
