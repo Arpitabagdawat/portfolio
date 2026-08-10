@@ -216,7 +216,7 @@ export const skillCategories: SkillCategory[] = [
   {
     category: 'Cloud',
     skills: [
-      { name: 'Microsoft Azure', icon: TbBrandAzure },
+      { name: 'Amazon Web Services (AWS)', icon: TbBrandAzure },
     ],
   },
   {
